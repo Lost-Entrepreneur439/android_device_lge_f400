@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_f400.mk
+    $(LOCAL_DIR)/aicp_f400.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_f400-userdebug \
-    lineage_f400-eng \
-    lineage_f400-user
+    aicp_f400-userdebug \
+    aicp_f400-eng \
+    aicp_f400-user
